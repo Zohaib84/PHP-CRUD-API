@@ -1,2 +1,2 @@
 # PHP-CRUD-API
-PHP CRUD API project
+PHP CRUD Restful API project
